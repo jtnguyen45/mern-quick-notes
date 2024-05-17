@@ -1,0 +1,12 @@
+.home-container {
+    padding: 10px;
+    margin: 0 auto;
+    width: 80%;
+    overflow: hidden;
+    background-color: white;
+}
+
+.home-container img {
+    object-fit: contain;
+    width: 100%;
+}
